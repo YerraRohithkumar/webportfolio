@@ -1,0 +1,29 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	height: 100%;
+}
+
+/*font*/
+body{
+	font-family: "Helvetica Neue", sans-serif;
+	height: 100%;
+	background-color: #faeed9 !important;
+}
+
+.back-co{
+	background-color: #faeed9;
+}
+
+.image{
+	width: 20%;
+}
+
+.colo{
+	background-color: #faeed9;
+}
